@@ -1,0 +1,26 @@
+{
+  "sharePhotosAndComments": {
+    "title": "Share Photos & Comments",
+    "description": "Functional social media features keep you well-updated on your child’s most important activities. Engage with school administrators, teachers, and other parents on important topics."
+  },
+  "stayInformed": {
+    "title": "Stay Informed",
+    "description": "Receive instant notifications about emergencies, field trips, parent-teacher conferences, and other school activities."
+  },
+  "managePickUps": {
+    "title": "Manage Pick-Ups",
+    "description": "Takes the stress out of coordinating pick-ups of your child from school. Add and remove family members and other domestic caregivers as you wish."
+  },
+  "paySchoolFees": {
+    "title": "Pay School Fees",
+    "description": "The days of filling out forms at banks or queuing to pay cash are over. Pay any time with your mobile money, Visa or Mastercard, or at any bank branch across Ghana."
+  },
+  "managePermissions": {
+    "title": "Manage Permissions",
+    "description": "Approve permission requests from your child's school with a few taps on your smartphone for activities like field trips, health requests, and others."
+  },
+  "bringFamilyTogether": {
+    "title": "Bring Family Together",
+    "description": "Mobilise a close circle of family members to raise up your child. Manage support from grandparents, friends, sponsors, and other caretakers around your child."
+  }
+}
