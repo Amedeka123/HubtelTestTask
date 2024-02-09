@@ -23,7 +23,11 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
-// Custom command to validate link status
+// Custom command to validate link status/// <reference types='@cypress/xpath' />
+/// <reference types='@cypress/xpath' />
+/// <reference types='cypress' />
+
+
 Cypress.Commands.add('validateLinkStatus', (linkSelector) => {
     cy.get(linkSelector).invoke('attr', 'href').then((href) => {
       cy.request(href).then((res) => {
